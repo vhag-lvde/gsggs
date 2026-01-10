@@ -1,16 +1,13 @@
 class script(object):
-     START_TXT = """<b><blockquote>🎭 ᴊᴀɪ sʜʀᴇᴇ ᴋʀɪsʜɴᴀ ♕ {}</blockquote>
+    START_TXT = """<b><u>🚩 ᴊᴀɪ ꜱʜʀɪ ʀᴀᴍ 🚩</u></b>
 
- Just send me the name of any movie or series, and this bot will automatically search and find it for you. ✨
- <blockquote>मूवी या सीरीज़ का नाम भेजो, बॉट आपको तुरंत खोजकर दे देगा। ✨</blockquote>
+<b>ʜᴇʏ {}, {}</b>
 
-<blockquote><b>ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ :</b> <a href='https://telegram.me/'>ᴀғ ᴍʜᴀᴋᴀʟ</a></blockquote>
-<blockquote>ᴛᴀᴘ ʙᴜᴛᴛᴏɴs ʙᴇʟᴏᴡ ғᴏʀ ᴍᴏʀᴇ 👇</blockquote>
-
-</b>"""
+<b>🤖 ɪ ᴀᴍ <a href=https://t.me/{}>{}</a>, ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ.</b>
+"""
 
 
-     GSTART_TXT = """<b>🚩 ᴊᴀɪ ꜱʜʀɪ ʀᴀᴍ 🚩</b>
+    GSTART_TXT = """<b>🚩 ᴊᴀɪ ꜱʜʀɪ ʀᴀᴍ 🚩</b>
 
 <b>ʜᴇʏ {},</b>
 
@@ -232,13 +229,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><blockquote><a href="https://t.me/+Cuh0VD290xBmODY1">@Reelify_Bot {file_name}</a></blockquote>
-
-───── ❝  𝓙𝓸𝓲𝓷 𝓝𝓸𝔀 ❞ ─────
-<blockquote>○Jᴏɪɴ :<a href="https://t.me/AF_Cinemaa">Cʜᴀɴɴᴇʟ</a>
-○Mᴏᴠɪᴇ : :<a href="https://t.me/+Cuh0VD290xBmODY1">Gʀᴏᴜᴘ</a></blockquote>
-</b>"""
-
+    CAPTION = """<b><a href="https://t.me/dreamxbotz">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/dreamxbotz">[ ᴅʀᴇᴀᴍxʙᴏᴛᴢ ]</a></b>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
@@ -290,14 +281,14 @@ sʜᴏᴡɴ ɪɴ : {remaining_seconds} <i>sᴇᴄ</i>⚡️
     PREMIUM_TEXT = """<blockquote>🎖️ <b>ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs</b></blockquote>
 
 
-◉ 07 ᴅᴀʏꜱ - 9 ₹  / 10 ꜱᴛᴀʀ
-◉ 15 ᴅᴀʏꜱ - 19 ₹  / 20 ꜱᴛᴀʀ
-◉ 30 ᴅᴀʏꜱ - 39 ₹  / 40 ꜱᴛᴀʀ
-◉ 45 ᴅᴀʏꜱ - 49₹  / 55 ꜱᴛᴀʀ
-◉ 60 ᴅᴀʏꜱ - 61 ₹  / 75 ꜱᴛᴀʀ
+◉ 07 ᴅᴀʏꜱ - 10 ₹  / 10 ꜱᴛᴀʀ
+◉ 15 ᴅᴀʏꜱ - 20 ₹  / 20 ꜱᴛᴀʀ
+◉ 30 ᴅᴀʏꜱ - 40 ₹  / 40 ꜱᴛᴀʀ
+◉ 45 ᴅᴀʏꜱ - 55 ₹  / 55 ꜱᴛᴀʀ
+◉ 60 ᴅᴀʏꜱ - 75 ₹  / 75 ꜱᴛᴀʀ
 
 •─────•─────────•─────•
-🏷️ <a href='https://t.me/Dark_froxt_bot'>ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ ᴘʀᴏᴏꜰ</a>
+🏷️ <a href='https://t.me/dreamxbotz'>ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ ᴘʀᴏᴏꜰ</a>
 
 ‼️ ᴍᴜꜱᴛ ꜱᴇɴᴅ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ᴀꜰᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.
 ‼️ ᴀꜰᴛᴇʀ ꜱᴇɴᴅɪɴɢ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ɢɪᴠᴇ ᴜꜱ ꜱᴏᴍᴇᴛɪᴍᴇꜱ ᴛᴏ ᴀᴅᴅ ʏᴏᴜ ɪɴ ᴘʀᴇᴍɪᴜᴍ ʟɪꜱᴛ."""
@@ -306,7 +297,7 @@ sʜᴏᴡɴ ɪɴ : {remaining_seconds} <i>sᴇᴄ</i>⚡️
 
 ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ʙᴜʏ ᴏᴜʀ ᴘʀᴇᴍɪᴜᴍ ꜱᴇʀᴠɪᴄᴇ ᴜꜱɪɴɢ ᴛᴇʟᴇɢʀᴀᴍ ꜱᴛᴀʀꜱ.  
 
-ɪꜰ ʏᴏᴜ ꜰᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ, ᴛᴀᴋᴇ ᴀ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ᴀɴᴅ ꜱᴇɴᴅ ɪᴛ ᴛᴏ - @Dark_froxt_bot
+ɪꜰ ʏᴏᴜ ꜰᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ, ᴛᴀᴋᴇ ᴀ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ᴀɴᴅ ꜱᴇɴᴅ ɪᴛ ᴛᴏ - @deendayal_Support_group
 
 ꜱᴇʟᴇᴄᴛ ʏᴏᴜʀ ᴅᴇꜱɪʀᴇᴅ ᴀᴍᴏᴜɴᴛ ᴀɴᴅ ᴘᴜʀᴄʜᴀꜱᴇ ᴀ ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ 👇.</b>
 """
@@ -358,11 +349,11 @@ sʜᴏᴡɴ ɪɴ : {remaining_seconds} <i>sᴇᴄ</i>⚡️
 
 <blockquote>🎖️ <b>ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴꜱ</b></blockquote>
 
-◉ 07 ᴅᴀʏꜱ - 9 ₹  
-◉ 15 ᴅᴀʏꜱ - 19 ₹  
-◉ 30 ᴅᴀʏꜱ - 39 ₹  
-◉ 45 ᴅᴀʏꜱ - 49 ₹  
-◉ 60 ᴅᴀʏꜱ - 61 ₹  
+◉ 07 ᴅᴀʏꜱ - 10 ₹  
+◉ 15 ᴅᴀʏꜱ - 20 ₹  
+◉ 30 ᴅᴀʏꜱ - 40 ₹  
+◉ 45 ᴅᴀʏꜱ - 55 ₹  
+◉ 60 ᴅᴀʏꜱ - 75 ₹  
 
 •─────•─────────•─────•
 
@@ -388,7 +379,7 @@ sʜᴏᴡɴ ɪɴ : {remaining_seconds} <i>sᴇᴄ</i>⚡️
 ○ ᴍᴜʟᴛɪ-ᴘʟᴀʏᴇʀ sᴛʀᴇᴀᴍɪɴɢ ʟɪɴᴋs
 ○ ᴀᴅ-ғʀᴇᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇ
 
-👨‍💻 ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ <a href='https://t.me/Dark_froxt_bot'>Owner</a> ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴛʀɪᴀʟ.
+👨‍💻 ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ <a href='https://t.me/dreamxbotz'>Owner</a> ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴛʀɪᴀʟ.
 
 ➛ ᴜꜱᴇ /plan ᴛᴏ ꜱᴇᴇ ᴀʟʟ ᴏᴜʀ ᴘʟᴀɴꜱ ᴀᴛ ᴏɴᴄᴇ.
 ➛ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan</b>"""
@@ -413,7 +404,7 @@ sʜᴏᴡɴ ɪɴ : {remaining_seconds} <i>sᴇᴄ</i>⚡️
     SOURCE_TXT ="""<b>ՏOᑌᖇᑕᗴ ᑕOᗪᗴ : 👇 </b>
 
 This Is An Open-Source Project. You Can Use It Freely, But Selling The Source Code Is Strictly Prohibited.\n
-ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://google.com>AF X</a>\n """
+ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://github.com/DreamXBotz/Auto_Filter_Bot.git>𝓓𝓻𝓮𝓪𝓶𝔁𝓑𝓸𝓽𝔃</a>\n """
 
     SETTING_TXT = """    
 <u>ꜱᴇᴛᴛɪɴɢꜱ</u> :
