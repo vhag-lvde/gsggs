@@ -55,14 +55,14 @@ reqst_channel = environ.get('REQST_CHANNEL_ID', '-1002213359277')  # Request cha
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/af_support_chat')  # Support group link (make sure bot is admin)
 
 # FORCE_SUB 
-auth_req_channels = environ.get("AUTH_REQ_CHANNELS", "-1002134056982")# requst to join Channel for force sub (make sure bot is admin) only for bot ADMINS  
-auth_channels     = environ.get("AUTH_CHANNELS", "-1002378415644 -1002184167100")# Channels for force sub (make sure bot is admin)
+auth_req_channels = environ.get("AUTH_REQ_CHANNELS", "-1002192809713")# requst to join Channel for force sub (make sure bot is admin) only for bot ADMINS  
+auth_channels     = environ.get("AUTH_CHANNELS", "-1002250028209 -1002184167100")# Channels for force sub (make sure bot is admin)
 
 # ============================
 # Payment Configuration
 # ============================
 QR_CODE = environ.get('QR_CODE', 'https://t.me/AF_feedbot?text=I%20Need%20Premium%20in%20MOVIE%20Bot')    # QR code image for payments
-OWNER_UPI_ID = environ.get('OWNER_UPI_ID', 'ɴᴏ ᴀᴠᴀɪʟᴀʙʟᴇ ʀɪɢʜᴛ ɴᴏᴡ')    # Owner UPI ID for payments
+OWNER_UPI_ID = environ.get('OWNER_UPI_ID', 'Msg HERE 👇👇  @AF_feedbot')    # Owner UPI ID for payments
 
 
 STAR_PREMIUM_PLANS = {
@@ -123,9 +123,9 @@ THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "54000"))
 # ============================
 # Channel & Group Links Configuration
 # ============================
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+JdRUqgm9Xvk3MWJl') # Group link for the bot
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+32KAmoStL9kzOTFl') # Group link for the bot
 OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/AF_feedbot') # Owner link for the bot
-UPDATE_CHNL_LNK = environ.get('UPDATE_CHNL_LNK', 'https://t.me/af_cinemaa') # Update channel link for the bot
+UPDATE_CHNL_LNK = environ.get('UPDATE_CHNL_LNK', 'https://t.me/af_backup') # Update channel link for the bot
 
 
 # ============================
