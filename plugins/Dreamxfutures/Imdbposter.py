@@ -9,10 +9,7 @@ from imdb import Cinemagoer
 
 
 logger = logging.getLogger(__name__)
-
-# FIX: Passed 'http' so Cinemagoer uses web HTTP access instead of triggering SQLAlchemy/SQLite
-ia = Cinemagoer('http')
-
+ia = Cinemagoer()
 LONG_IMDB_DESCRIPTION = False
 
 Image.MAX_IMAGE_PIXELS = None
@@ -148,7 +145,7 @@ async def get_movie_details(query, id=False, file=None):
             'release_date': date,
             'year': movie.get('year'),
             'genres': list_to_str(movie.get("genres")),
-            'poster_url': poster_url + "._V1_SX1440.jpg" if poster_url and poster_url.endswith("@.jpg") else poster_url,
+            'poster_url': poster_url + "._V1_SX1440.jpg" if poster_url.endswith("@.jpg") else poster_url,
             'plot': plot,
             'rating': str(movie.get("rating", "N/A")),
             'url': f'https://www.imdb.com/title/tt{movieid}'
