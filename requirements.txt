@@ -35,4 +35,4 @@ fuzzywuzzy
 python-Levenshtein==0.27.1
 
 # Git-based Packages
-git+https://github.com/DreamXBotz/IMDBKit.git@main
+https://github.com/DreamXBotz/cinemagoer
